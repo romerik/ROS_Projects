@@ -31,7 +31,7 @@ This ROS package, named my_robot_controller, consists of several nodes for contr
 ## File Structure
 
 
-``bash
+```bash
 my_robot_controller
     ├── my_robot_controller
     │   ├── draw_circle.py
@@ -43,7 +43,7 @@ my_robot_controller
     │   │   └── my_first_node.cpython-310.pyc
     │   └── turtle_controller.py
 
-``
+```
 
 ## Setup and Running
 
